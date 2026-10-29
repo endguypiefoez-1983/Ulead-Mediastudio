@@ -217,4 +217,4 @@ Ulead MediaStudio is available as a full version with all features and updates i
 Elevate your video editing experience with Ulead MediaStudio. **Download it now and start creating!**
 
 ---
-**Last updated:** 2026-10-28 23:40:39 UTC
+**Last updated:** 2026-10-29 02:58:40 UTC
